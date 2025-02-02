@@ -1,0 +1,103 @@
+MUNDO 1
+
+1 - print('Olá, Mundo!')
+2 - Respondendo ao usuário
+
+<<< Aula 6 - Tipos Primitivos >>>
+
+3 - Somando dois números
+4 - Dissecando uma variável
+
+<<< Aula 7 - Operadores Aritméticos >>>
+
+5 - Antecessor e Sucessor
+6 - Dobro, Triplo e Raiz Quadrada
+7 - Média Aritimética
+8 - Conversor de medidas
+9 - Tabuada
+10 - Conversor de moedas
+11 - Pintando parede (medidas)
+12 - Calculando descontos
+13 - Reajuste Salarial
+14 - Conversor de temperaturas
+15 - Aluguel de carros
+16 - Quebrando um numero (mostrando parte inteira do numero real)
+
+<<< Aula 8 - Utilizando Módulos >>>
+
+17 - Catetos e hipotenusa
+18 - Seno, Cosseno e Tangente
+19 - Sorteando um item na lista
+20 - Soteando uma ordem na lista
+21 - Tocando um MP3
+
+<<< Aula 9 - Manipulando Texto >>>
+
+22 - Analisador de Textos
+23 - Separando digitos de um numero
+24 - Verificando as primeiras letras de um texto
+25 - Procurando uma string dentro de outra
+26 - Primeira e ultima ocorrencia de uma string
+27 - Primeiro e ultimo nome de uma pessoa
+
+<<< Aula 10 - Condições (if...else) >>>
+
+28 - Jogo da adivinhação v.1.0
+29 - Radar eletrônico
+30 - Par ou ímpar
+31 - Custo da viangem
+32 - Ano Bissexto
+33 - Maior e menor valor
+34 - Aumentos múltiplos 
+35 - Analisando triângulo v1.0 
+
+MUNDO 2
+<<< Aula 12 - Condições (if...elif) >>>
+
+36 - Aprovando Emprestimos
+37 - Conversor de Bases Numericas
+38 - Comparandos números
+39 - Alistamento Militar
+40 - Media escolar
+41 - Classificando aAtletas
+42 - Analisado Triângulos v2.0
+43 - Infice de Massa Corporal
+44 - Gerenciador de Pagamentos (Jé Capricho 1.0)
+45 - Game: Pedra, Papel e Tesoura
+
+<<< Aula 13 - Repetições (for)>>>
+
+46 - Contagem Regressiva
+47 - Contagem de Pares
+48 - Soma ímpares Múltiplos de 3
+49 - Tabuada V.2.0
+50 - Soma dos Pares
+51 - Progressão Aritmética
+52 - Números Primos
+53 - Detector de Palindromo
+54 - Grupo da Maioridade
+55 - Maior e Menor da Sequência
+56 - Analisador Completo
+
+<<< Aula 14 - Repetições (while) >>>
+
+57 - Validação de Dados
+58 - Jogo da Adivinhação v.2.0
+59 - Criando um Menu de Opções
+60 - Cálculo de Fatorial
+61 - Progressão Aritmética v.2.0
+62 - Super Progressão Aritmética v.3.0
+63 - Sequência de Fibonacci v.1.0
+64 - Tratando Varios Valores v.1.0
+65 - Maior e Menor Valores
+
+<<< Aula 15 - Imterrompendo repetições (while) >>>
+
+66 - Vários números com flag
+67 - Tabuada v.3.0
+68 - Jogo do Par ou Impar
+69 - Análise de Dados do Grupo
+70 - Estatísticas em produtos
+71 - Simulador de Caixa Eletrônico
+
+MUNDO 3
